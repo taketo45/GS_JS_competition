@@ -1,0 +1,4 @@
+{
+  "inputUri": "gs://gs-firestore-complete.firebasestorage.app/emotion-analysis/1731332415067.webm",
+  "features": ["FACE_DETECTION"]
+}
