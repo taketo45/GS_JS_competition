@@ -10,13 +10,16 @@ Google Vision API、
 Google firestore Database,
 Google Wep Speech API,
 Google NLP API,
-Google Cloud storage,
-Google Cloud Functions,
-Slack API,
 Goolge Authentication
 
+↓↓ライブラリを準備するも最終盤へ組み込みできず
+Google Cloud storage, 
+Google Cloud Functions,
+Slack API,
+
+
 ## ③アプリのデプロイURL
- ＜さくらインターネットの対応中＞
+ [Googleアカウントでログインしてください](https://transformnavi.sakura.ne.jp/JScompetition/)
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - Googleアカウントによる認証。ログイン時に信頼されていないサイトに行くという項目を選択する。（ドメインの証明書がないため）
